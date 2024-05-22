@@ -4,6 +4,7 @@
 #ignorar uma pasta chamada "temporaria" eo seu conteúdo
 temporaria/
 
+#ignorar
 imagens/preview
 imagens/outrapasta/
 
